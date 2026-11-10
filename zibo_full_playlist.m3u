@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="T-SPORRTS-HD" tvg-id="T-SPORRTS-HD",T-SPORRTS-HD
+http://103.238.115.159:8080/T-SPORRTS-HD/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="PS" tvg-id="PS",PS
+http://103.238.115.159:8080/PS/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="dbc" tvg-id="dbc",dbc
+http://103.238.115.159:8080/dbc/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="mytv" tvg-id="mytv",mytv
+http://103.238.115.159:8080/mytv/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="atnnews" tvg-id="atnnews",atnnews
+http://103.238.115.159:8080/atnnews/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="ntv" tvg-id="ntv",ntv
+http://103.238.115.159:8080/ntv/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="BTVCTG" tvg-id="BTVCTG",BTVCTG
+http://103.238.115.159:8080/BTVCTG/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="dsds" tvg-id="dsds",dsds
+http://103.238.115.159:8080/dsds/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="aa" tvg-id="aa",aa
+http://103.238.115.159:8080/aa/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="onebd" tvg-id="onebd",onebd
+http://103.238.115.159:8080/onebd/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="111" tvg-id="111",111
+http://103.238.115.159:8080/111/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="dffd" tvg-id="dffd",dffd
+http://103.238.115.159:8080/dffd/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="kal" tvg-id="kal",kal
+http://103.238.115.159:8080/kal/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="STAR-NEWS-ZIBO-FEED-SM-IPTV" tvg-id="STAR-NEWS-ZIBO-FEED-SM-IPTV",STAR-NEWS-ZIBO-FEED-SM-IPTV
+http://103.238.115.159:8080/STAR-NEWS-ZIBO-FEED-SM-IPTV/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="dazn" tvg-id="dazn",dazn
+http://103.238.115.159:8080/dazn/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="foxx" tvg-id="foxx",foxx
+http://103.238.115.159:8080/foxx/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="SDSD" tvg-id="SDSD",SDSD
+http://103.238.115.159:8080/SDSD/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="atnbangla" tvg-id="atnbangla",atnbangla
+http://103.238.115.159:8080/atnbangla/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="rtv" tvg-id="rtv",rtv
+http://103.238.115.159:8080/rtv/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="boishakitvv" tvg-id="boishakitvv",boishakitvv
+http://103.238.115.159:8080/boishakitvv/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="banglavision" tvg-id="banglavision",banglavision
+http://103.238.115.159:8080/banglavision/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="mohonatv" tvg-id="mohonatv",mohonatv
+http://103.238.115.159:8080/mohonatv/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="satv" tvg-id="satv",satv
+http://103.238.115.159:8080/satv/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="jamunatv" tvg-id="jamunatv",jamunatv
+http://103.238.115.159:8080/jamunatv/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="n24" tvg-id="n24",n24
+http://103.238.115.159:8080/n24/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="fdfd" tvg-id="fdfd",fdfd
+http://103.238.115.159:8080/fdfd/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="ZibO-Tata" tvg-id="ZibO-Tata",ZibO-Tata
+http://103.238.115.159:8080/ZibO-Tata/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="28" tvg-id="28",28
+http://103.238.115.159:8080/28/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="ffd" tvg-id="ffd",ffd
+http://103.238.115.159:8080/ffd/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="tsportsuser1232" tvg-id="tsportsuser1232",tsportsuser1232
+http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS
+#EXTINF:-1 tvg-name="rajdani-123-720" tvg-id="rajdani-123-720",rajdani-123-720
+http://103.238.115.159:8080/rajdani-123-720/video.m3u8?token=ZIBOPLAYVS
