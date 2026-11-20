@@ -119,6 +119,31 @@ https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="BD | Jago News 24" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",BD | Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8#skym3u.dev
 
+#EXTINF:-1 tvg-name="Public Movies" group-title="Live TV",Public Movies
+https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-name="All Time Movies" group-title="Live TV",All Time Movies
+https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-name="NH BollyRaga" group-title="Live TV",NH BollyRaga
+https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8
+
+#EXTINF:-1 tvg-name="Epic Crimes" group-title="Live TV",Epic Crimes
+https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
+
+#EXTINF:-1 tvg-name="Epic Music Digital" group-title="Live TV",Epic Music Digital
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="YRF Music Nepal" group-title="Live TV",YRF Music Nepal
+https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
+
+#EXTINF:-1 tvg-name="JooMusic" group-title="Live TV",JooMusic
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sony Yay" group-title="Live TV",Sony Yay
+https://r2.amml.in/sony-yay/live.m3u8
+
+
 #EXTINF:-1 tvg-name="Channel S" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8#skym3u.dev
 
