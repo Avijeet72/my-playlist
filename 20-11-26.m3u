@@ -1,9 +1,6 @@
 #EXTM3U
 #=================================
-# Playlist name : Ayna OTT Playlist
-# Developed by: Monirul Islam
-# Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:08:39 PM (BD Time)
+Name:Avi
 # All channel : 234
 #=================================
 
@@ -46,8 +43,39 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-id="019f9d1e-903a-70f7-b217-aabdbdc97163" tvg-name="Channel 52" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg" group-title="Bangla",Channel 52
 https://tvsen6.aynaott.com/channel52/index.m3u8
 
-#EXTINF:-1 tvg-id="019de785-3970-7fa3-a850-d2ca0e07c1e0" tvg-name="Channel 9" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0f3afa480f77dd7d97d49b449a05f3fa_playmist_channel_9_400x400.jpg" group-title="Bangla",Channel 9
-https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8
+#EXTINF:-1 tvg-name="Sony aath" group-title="Bangla",Sony aath
+https://drk6xq0vhn.gpcdn.net/hls/sony_c1kn7tv9qm3lx5w_720/index.m3u8
+
+#EXTINF:-1 tvg-name="Khusboo bangla" group-title="Bangla",Khusboo bangla
+https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="ZB Cinema" group-title="Bangla",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Movie bangla" group-title="Bangla",Movie bangla
+https://drk6xq0vhn.gpcdn.net/hls/movie_bangla_720/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Semaroo tv" group-title="Hindi",Semaroo tv
+https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Dangel 2" group-title="Hindi",Dangel 2
+https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_240p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="E24" group-title="Hindi",E24
+https://mumt04.tangotv.in/m18aqlK4E24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Sony max" group-title="Hindi",Sony max
+https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
+
+#EXTINF:-1 tvg-name="The jungle book" group-title="Hindi",The jungle book
+https://cc-4bhi5osabejc9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/fa3d4b38-aa7f-4c3d-abeb-24ae1ac95760/0.m3u8
+
+#EXTINF:-1 tvg-name="YRF Music" group-title="Hindi",YRF Music
+https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
+
+
 
 #EXTINF:-1 tvg-id="019de785-3953-7390-925e-0b52e8d2cf6b" tvg-name="Channel I" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-01/images_99c9ba1977777337bdc037f79ed921ea_playmist_channel_i_400x400.jpg" group-title="Bangla",Channel I
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
