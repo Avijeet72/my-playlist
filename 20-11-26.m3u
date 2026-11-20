@@ -161,8 +161,7 @@ https://raw.githubusercontent.com/ahan443/vibe-tv/refs/heads/main/ZeeBanglaHD.m3
 
 #EXTINF:-1 tvg-id="ZeeBangla.in@HD" tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla.png" tvg-chno="102" channel-id="ZeeBangla.in@HD" tvg-country="IN" tvg-language="ben" group-title="Indian Bangla",Zee Bangla
 https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in@HD" tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla.png" tvg-chno="102" channel-id="ZeeBangla.in@HD" tvg-country="IN" tvg-language="ben" group-title="Indian Bangla",Zee Bangla
-https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8b
+
 #EXTINF:-1 tvg-id="ZeeKannada.in@SD" tvg-name="Zee Kannada" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-kannada.png" tvg-chno="374" channel-id="ZeeKannada.in@SD" tvg-country="IN" tvg-language="kan" group-title="Indian Entertainment",Zee Kannada
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ZeeMarathi.in@HD" tvg-name="Zee Marathi" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-marathi.png" tvg-chno="375" channel-id="ZeeMarathi.in@HD" tvg-country="IN" tvg-language="mar" group-title="Indian Entertainment",Zee Marathi
