@@ -36,8 +36,6 @@ https://tvsen6.aynaott.com/channel52/index.m3u8
 https://drk6xq0vhn.gpcdn.net/hls/sony_c1kn7tv9qm3lx5w_720/index.m3u8
 #EXTINF:-1,Khusboo bangla
 https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZB Cinema
-https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Movie bangla
 https://drk6xq0vhn.gpcdn.net/hls/movie_bangla_720/index.m3u8
 #EXTINF:-1,Colors MENA HD
@@ -100,14 +98,16 @@ https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #EXTINF:-1,Global TV
 https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
-#EXTINF:-1,GAZI TV HD
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8#skym3u.dev
 #EXTINF:-1,Maasranga TV
 https://tvsen6.aynaott.com/maasrangatv/index.m3u8
 #EXTINF:-1,IN | Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8#skym3u.dev
 #EXTINF:-1,BD | Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8#skym3u.dev
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTMY0wW.png" group-title="bangla",Gazi TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Public Movies
 https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 #EXTINF:-1,All Time Movies
@@ -290,48 +290,35 @@ https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 https://d3c7vdfq3tyeyw.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/v1/channel/ruskmedia/germane.m3u8
 #EXTINF:-1,Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="ZeeCinema.in@APAC",Zee Cinema APAC (720p)
+#EXTINF:-1,Zee Cinema APAC
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-
-
-#EXTINF:-1 tvg-id="MoviesNow.in@HD",Movies Now HD (576p)
+#EXTINF:-1,Movies Now HD
 http://27.124.71.27/Movies_Now/index.m3u8
-
-#EXTINF:-1 tvg-id="TheMovieClub.in@HD",The Movie Club (1080p)
+#EXTINF:-1,The Movie Club
 https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
-
-#EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD",AKD Calcutta News (576p)
+#EXTINF:-1,AKD Calcutta News
 https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="CNNNews18.in@SD",CNN News 18 (1080p)
+#EXTINF:-1,CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8
-
-#EXTINF:-1 tvg-id="CnewsBharat.in@SD",Cnews Bharat (720p)
+#EXTINF:-1,Cnews Bharat
 https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="HareKrsnaMusic.in@SD",Hare Krsna Music (1080p)
+#EXTINF:-1,Hare Krsna Music
 https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkmusic/HKTV/HKMusic/playlist.m3u8
-#EXTINF:-1 tvg-id="HareKrsnaPravachan.in@SD",Hare Krsna Pravachan (1080p)
+#EXTINF:-1,Hare Krsna Pravachan
 https://dcn72a38509t.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkpravachan/HKTV/HKPravachan/playlist.m3u8
-#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD",Hare Krsna TV (1080p)
+#EXTINF:-1,Hare Krsna TV
 https://de3osy3rc63bo.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hktv/HKTV/HKWebApp/playlist.m3u8
-#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD",Hare Krsna TV (720p)
+#EXTINF:-1,Hare Krsna TV
 https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD",Hare Krsna TV (720p)
+#EXTINF:-1,Hare Krsna TV
 https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hktv/HKTV/HKWebApp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HindiHits.in@SD",Hindi Hits (720p)
+#EXTINF:-1,Hindi Hits
 https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
-
-#EXTINF:-1 tvg-id="IndiaTV.in@SD",India TV (1080p)
+#EXTINF:-1,India TV
 https://vg-indiatv-waves.vgcdn.net/vglive-sk-394591/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD",India TV Speed News (1080p)
+#EXTINF:-1,India TV Speed News
 https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
-
-#EXTINF:-1 tvg-id="IndiaVoice.in@SD",India Voice (576p)
+#EXTINF:-1,India Voice
 https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
 #EXTINF:-1,ANB News
 https://d1msejlow1t3l4.cloudfront.net/fta/anb/playlist.m3u8
@@ -893,10 +880,6 @@ https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2gvyg6lvauoko.cloudfront.net/230226/nktv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1,NKR TV Kannada
 https://vglivessai.akamaized.net/ptnr-lg/title-NKR_TV/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3e4833d1-e98f-4fc4-8868-6d31dc2ea843/index.m3u8
-#EXTINF:-1,Oli TV
-https://hlslive.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1,Oli TV
-https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1,Parvasi TV
 https://yuppnimrestreammum.akamaized.net/181224/smil:pravasi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1,Pasand TV
@@ -1161,10 +1144,6 @@ https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?h
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1,ZB Bhakti
 https://server.zillarbarta.com/zbbhakti/index.m3u8
-#EXTINF:-1,ZB Cinema
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1,ZB Music
-https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1,Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
 #EXTINF:-1,Zee 24 Kalak
@@ -1227,8 +1206,6 @@ https://tvsen6.aynaott.com/amc/index.m3u8
 https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
 #EXTINF:-1,Bloomberg TV
 https://tvsen6.aynaott.com/bloombergtv/index.m3u8
-#EXTINF:-1,CBS TV
-https://tvsen3.aynaott.com/34fJSjZP/index.m3u8
 #EXTINF:-1,CNBC TV
 https://tvsen6.aynaott.com/cnbc/index.m3u8
 #EXTINF:-1,CNN
@@ -1319,10 +1296,6 @@ https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
 https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8
 #EXTINF:-1,HISTORY TV
 https://tvsen3.aynaott.com/np3JstRE/index.m3u8
-#EXTINF:-1,LAFF TV
-https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8
-#EXTINF:-1,Travel Channel
-https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8
 #EXTINF:-1,Travel XP
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 #EXTINF:-1,Wild TV
