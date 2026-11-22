@@ -70,8 +70,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 #EXTINF:-1,Star Maa Movies HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-#EXTINF:-1,B4U Movies
-http://103.175.73.12:8080/live/43/43_0.m3u8
+
 #EXTINF:-1,Dangel 2
 https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_240p/chunks.m3u8
 #EXTINF:-1,E24
