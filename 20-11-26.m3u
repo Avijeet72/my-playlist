@@ -81,6 +81,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b262
 https://drk6xq0vhn.gpcdn.net/hls/cn_hd_720/index.m3u8
 #EXTINF:-1,Dangel 2
 https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_240p/chunks.m3u8
+#EXTINF:-1 tvg-name="Star Movie" group-title="Movies",Star Movie
+http://bd.sm-monirul.xyz/live/star_movie/index.m3u8
+#EXTINF:-1 tvg-name="Sony Max 1" group-title="Movies",Sony Max 1
+http://live.balajibroadband.com:3500/live/3418.m3u8
 #EXTINF:-1,E24
 https://mumt04.tangotv.in/m18aqlK4E24/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony max
