@@ -3,6 +3,7 @@
 Name:Avi
 # All channel : 234
 #=================================
+
 #EXTM3U
 #EXTINF:-1,BTV CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
@@ -68,7 +69,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8
 #EXTINF:-1,NDTV Madhya Pradesh Chhattisgarh
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
-#EXTINF:-1,Aakaash Aathhttps://cdn.pishow.tv/ott/live/969/master.m3u8
 #EXTINF:-1,Star Maa HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1,Star Pravah HD
@@ -109,10 +109,8 @@ https://tvsen6.aynaott.com/maasrangatv/index.m3u8
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8#skym3u.dev
 #EXTINF:-1,BD | Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8#skym3u.dev
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yTMY0wW.png" group-title="bangla",Gazi TV
+#EXTINF:-1,Gazi TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,Public Movies
 https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 #EXTINF:-1,All Time Movies
@@ -125,8 +123,6 @@ https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 #EXTINF:-1,YRF Music Nepal
 https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
-#EXTINF:-1,JooMusic
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1,Sony Yay
 https://r2.amml.in/sony-yay/live.m3u8
 #EXTINF:-1,Channel S
@@ -717,8 +713,6 @@ https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
 #EXTINF:-1,Jantantra TV
 https://d1msejlow1t3l4.cloudfront.net/fta/jantantratv/playlist.m3u8
-#EXTINF:-1,JTBS Classic
-https://jtbsclassic.dpdns.org/live.m3u8
 #EXTINF:-1,Kadak
 https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8
 #EXTINF:-1,Kalaignar Murasu
@@ -1043,8 +1037,6 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 #EXTINF:-1,The Unmute
 https://unmute.akamaized.net/unmute/index.m3u8
-#EXTINF:-1,Thendral TV
-https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
 #EXTINF:-1,Times Now
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
 #EXTINF:-1,Times Now Navbharat
@@ -1199,8 +1191,6 @@ https://vods2.aynaott.com/hindimovies/index.m3u8#skym3u.dev
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 #EXTINF:-1,ABC News
 https://tvsen6.aynaott.com/ABCxzdsdNews/index.m3u8
-#EXTINF:-1,ABN
-https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 #EXTINF:-1,Accu Weather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1,Aljazeera News
